@@ -1,1 +1,25 @@
 ECHO is on.
+# Virtual environment
+env/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (optional, if you don’t want to upload them)
+data/*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Conda or virtual environment files
+*.env
+*.yaml
+*.yml
