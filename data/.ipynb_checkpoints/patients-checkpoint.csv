@@ -1,0 +1,11 @@
+Patient_ID,Name,Age,Gender,Diagnosis,Blood_Pressure,Heart_Rate,Admission_Date,Discharge_Date,Treatment_Cost
+1,Sarah Johnson,45,F,Hypertension,145/95,82,2025-03-12,2025-03-19,1500
+2,Adam Smith,34,M,Diabetes,130/88,90,2025-01-25,2025-02-02,1800
+3,Leila Amari,28,F,Influenza,120/80,77,2025-04-05,2025-04-10,600
+4,Karim Haddad,52,M,Heart Disease,160/100,95,2025-02-10,2025-02-25,4200
+5,Maya Chen,39,F,Pneumonia,135/90,85,2025-03-01,2025-03-12,2000
+6,John Doe,61,M,Arthritis,140/92,78,2025-01-15,2025-01-22,1200
+7,Amina Benali,25,F,Fracture,118/79,80,2025-05-02,2025-05-14,900
+8,Omar Khaled,47,M,Asthma,125/85,88,2025-02-18,2025-02-24,1000
+9,Lina Rossi,31,F,Migraine,110/70,72,2025-04-20,2025-04-22,500
+10,Ahmed Mansour,56,M,Kidney Disease,150/95,89,2025-03-07,2025-03-20,3500
